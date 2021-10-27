@@ -1,15 +1,17 @@
 # Chess Demo
 
-VS 2019 used.
 
-C# - Console Application - Net Framework 4.7.2
+# Installation
+ * [Download the project](https://github.com/bugradogan/ChessDemo/archive/refs/heads/main.zip "Download")
+ * Extract the file
+ * Open Visual Studio and Select "Open a project or solution"
+ * Select ChessDemo.sln in the extracted files. 
+# Properties
+C# - Console Application - Net Framework 4.7.2 - VS 2019 used.
 
  - The program automatically reads all .txt files in the \bin\Debug folder. (Except subfolders)
   * If you want to add a new board, you can add it in the \bin\Debug folder.<br>
  - Results are written into Sonuçlar.txt in bin\Debug\Result folder. In addition, the results are printed on the console screen.
-
-
-
 
 <h2 align = "center">Example Result<br></h2>
 
@@ -18,5 +20,9 @@ C# - Console Application - Net Framework 4.7.2
   <img src="https://user-images.githubusercontent.com/72505613/139138256-7f4b8404-b5e1-4160-939e-9e09cf22dc05.jpg"  title="Txt Result">
   
 </p>
+
+
+
+
 
 
