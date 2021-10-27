@@ -1,0 +1,7 @@
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\bin\Debug\ChessDemo.exe.config
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\bin\Debug\ChessDemo.exe
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\bin\Debug\ChessDemo.pdb
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\obj\Debug\ChessDemo.csproj.AssemblyReference.cache
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\obj\Debug\ChessDemo.exe
+C:\Users\BUGRA\source\repos\ChessDemo\ChessDemo\obj\Debug\ChessDemo.pdb
